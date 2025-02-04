@@ -13,15 +13,20 @@ When you drag and drop a GLB into a Hyperfy world you create an [app](/docs/api/
 Follow the [scripting guide](/docs/scripts.md) to get started adding interactivty to your Hyperfy world.
 
 ## Commands [#](/docs/commands.md)
+
 Give yourself priviledges with `/admin <admin-key>`. Additional commands can be found in [commands.md.](/docs/commands.md)
 
 ## API Reference [#](/docs/category/api)
 
-Information about Hyperfy's global API's can be found in the [reference directory](/docs/category/api). 
+Information about Hyperfy's global API's can be found in the [reference directory](/docs/category/api).
 
 ## Example Scripts - [#](/docs/category/examples)
 
 Script examples to help you get started can be found in the [example directory](/docs/category/examples).
+
+## Exmaple Asset
+
+You can use the [hyperduck](https://hyperfy.how/model/hyperduck.glb) as an example asset to get started
 
 ## FAQ - [#](/docs/faq)
 
